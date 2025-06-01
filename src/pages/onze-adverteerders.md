@@ -2,7 +2,7 @@
 title: Onze adverteerders
 description: 
 eleventyNavigation:
-  order: 0
+  order: 7
   key: Adverteerders
 ---
 

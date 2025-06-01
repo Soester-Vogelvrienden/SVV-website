@@ -3,7 +3,7 @@ title: Vogelbeurs
 description: Op zondag 2 maart 2025 houden de Soester Vogelvrienden weer hun
   half jaarlijkse vogelbeurs
 eleventyNavigation:
-  order: 0
+  order: 3
   key: Vogelbeurs
 ---
 Op zondag 2 maart 2025 houden de Soester Vogelvrienden weer hun half jaarlijkse vogelbeurs. Dit evenement zal plaatsvinden in het verenigingsgebouw aan de Molenstraat in het Desmond Tutu centrum. Iedereen is van harte welkom op:  
@@ -20,3 +20,10 @@ Er zullen verschillende handelaren aanwezig zijn. Wij willen ook u als vogellief
 
 ![foto](/images/uploads/beurs018.jpg)
 ![foto](/images/uploads/vogelbeurs052.jpg)
+
+---
+
+## VOGELBEURZEN IN DE OMGEVING
+
+**Vogelvriend Nieuwegein**  
+Iedere 4e zaterdag van de maand (m.u.v. juni, juli en augustus) van 10.00 tot 12.30 uur in het clubhuis De Voliere ('t Drieluik), Rond het fort 14, 3429 MK Nieuwegein. Info [www.vogelvriend.nl](http://www.vogelvriend.nl). Wilt u op de hoogte blijven over de vogelbeurs, stuur dan een mailtje naar: [pr@vogelvriend.nl](mailto:pr@vogelvriend.nl).

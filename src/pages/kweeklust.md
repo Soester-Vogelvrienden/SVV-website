@@ -2,13 +2,13 @@
 title: Kweeklust
 description: Kweeklust is het verenigingsblad van de Soester Vogelvrienden
 eleventyNavigation:
-  order: 0
+  order: 6
   key: Kweeklust
 ---
 
 Kweeklust is het verenigingsblad van de Soester Vogelvrienden en verschijnt 10 maal per jaar. Naast de agenda met toelichting en het verslag van de ledenvergaderingen zijn ook voor de leden belangrijke mededelingen opgenomen (o.a over de tentoonstelling, aankomende evenementen, enten van de vogels, vraag en aanbod). Daarnaast zijn ook artikelen opgenomen of stellen leden zich voor door een stukje over hun beleving van de vogelsport te schrijven. Bekijk hier een paar voorbeelden van de artikelen uit Kweeklust over [de tweede kweekronde](2eronde.pdf) en de [bekering van een anti-vogeldame](vogeldame.pdf).  
   
-![](images/kweeklust.jpg) Onze adverteerders in Kweeklust zijn:  
+![kweeklust](/images/uploads/kweeklust.jpg) Onze adverteerders in Kweeklust zijn:  
   
 * [Eemland Diervoeders](http://www.eemlanddiervoeders.nl) Birkstraat 125a, Soest. tel. 033 - 461 8714  
 

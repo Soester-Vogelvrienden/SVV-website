@@ -2,7 +2,7 @@
 title: Agenda
 description: Dit is de agenda
 eleventyNavigation:
-  order: 0
+  order: 2
   key: Agenda
 ---
 
