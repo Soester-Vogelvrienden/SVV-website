@@ -1,0 +1,230 @@
+@import "tailwindcss" source(none);
+@source "../../public/**/*.{html,js}";
+@plugin "@tailwindcss/typography";
+
+html, body {
+	@apply overflow-x-hidden;
+}
+
+main {
+	@apply min-h-[calc(100vh-14rem)]
+}
+
+
+.sidebar {
+	@apply bg-yellow-100 p-4 z-30 transition-all duration-300 ease-in-out flex flex-col h-full overflow-hidden;
+}
+
+/* Mobile: fixed positioning */
+@media (max-width: 1023px) {
+	.sidebar {
+		@apply fixed top-0 left-0 h-full w-64 pt-16 shadow-lg -translate-x-full;
+	}
+}
+
+/* Desktop: part of the layout flow */
+@media (min-width: 1024px) {
+	.sidebar {
+		@apply w-64 h-auto static shadow-none;
+	}
+}
+
+.sidebar ul {
+	@apply space-y-2 list-none p-0 max-h-full overflow-y-auto flex-1;
+}
+
+.sidebar ul li {
+	@apply mb-2;
+}
+
+.sidebar ul li a {
+	@apply block p-2 rounded bg-yellow-200 text-yellow-900 hover:bg-yellow-300 hover:underline underline-offset-2 transition-colors duration-200 font-medium text-center whitespace-nowrap;
+}
+
+#sidebar-toggle {
+	@apply hidden;
+}
+
+.sidebar-toggle-label {
+	@apply fixed top-4 right-4 z-40 flex items-center justify-center w-10 h-10 bg-yellow-200 rounded shadow cursor-pointer lg:hidden;
+}
+
+/* Logo styling */
+.logo {
+	@apply h-8 mr-3;
+}
+
+/* Title styling with responsive behavior */
+.site-title {
+	@apply text-2xl font-bold text-yellow-900;
+}
+
+.site-title-full {
+	@apply hidden sm:inline;
+}
+
+.site-title-abbr {
+	@apply inline sm:hidden;
+}
+
+/* Default state (mobile: hidden, desktop: visible) */
+@media (max-width: 1024px) {
+	.sidebar {
+		@apply -translate-x-full;
+	}
+
+	#sidebar-toggle:checked~.sidebar {
+		@apply translate-x-0;
+	}
+
+	/* Overlay when sidebar is open */
+	#sidebar-toggle:checked~.sidebar-overlay {
+		@apply opacity-50 pointer-events-auto;
+	}
+
+	/* Change hamburger to X when open */
+	#sidebar-toggle:checked~.sidebar-toggle-label .open {
+		@apply hidden;
+	}
+
+	#sidebar-toggle:checked~.sidebar-toggle-label .close {
+		@apply block;
+	}
+}
+
+/* Hide close icon by default */
+.sidebar-toggle-label .close {
+	@apply hidden;
+}
+
+/* Content wrapper */
+.content-wrapper {
+	@apply transition-all duration-300;
+}
+
+/* Desktop layout: sidebar + content */
+@media (min-width: 768px) {
+	.main-container {
+		@apply flex flex-row;
+	}
+
+	.content-wrapper {
+		@apply flex-1;
+	}
+}
+
+/* Overlay for mobile */
+.sidebar-overlay {
+	@apply fixed inset-0 bg-black opacity-0 pointer-events-none z-20 transition-opacity duration-300 lg:hidden;
+}
+
+/* Typography plugin styles */
+@layer typography {
+	.prose {
+		@apply max-w-none prose-base lg:prose-lg max-w-none;
+	}
+
+	.prose p {
+		@apply text-gray-800;
+	}
+
+	.prose a {
+		@apply text-green-800 hover:text-green-600;
+	}
+}
+
+/* Tables */
+tr {
+	@apply border-b border-gray-200 even:bg-yellow-100 odd:bg-yellow-50;
+}
+
+th {
+	@apply bg-yellow-200 text-yellow-900 font-semibold p-2;
+}
+
+td {
+	@apply p-2;
+}
+
+/* Marquee */
+@layer utilities {
+	.marquee {
+		@apply lg:whitespace-nowrap overflow-hidden relative;
+	}
+
+	.marquee>* {
+		@apply inline-block;
+		animation: marquee 18s linear infinite;
+	}
+
+	@keyframes marquee {
+		0% {
+			transform: translateX(150%);
+		}
+
+		100% {
+			transform: translateX(-100%);
+		}
+	}
+}
+
+/* BIRD */
+
+.bird{
+    background-image: url('/bird.svg');
+    filter: brightness(0) saturate(100%) invert(27%) sepia(21%) saturate(2492%) hue-rotate(105deg) brightness(101%) contrast(99%);
+    background-size: auto 100%;
+    width: 88px;
+    height: 125px;
+    will-change: background-position;
+
+    animation-name: fly-cycle;
+    animation-timing-function: steps(10);
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+    animation-delay: -0.5s;
+}
+
+.bird-container {
+	position: absolute;
+	top: 10%;
+	left: -3%;
+	transform: scale(0) translateX(-10vw);
+	will-change: transform;
+	
+	animation-name: fly-right-one;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-duration: 15s;
+	animation-delay: 0;
+}
+@keyframes fly-cycle {
+	100% {
+		background-position: -900px 0;
+	}
+	
+}
+
+@keyframes fly-right-one {
+	
+	0% {
+		transform: scale(0.4) translateX(-20vw);
+	}
+	
+	100% {
+		transform: translateY(0vh) translateX(120vw) scale(0.9);
+	}
+	
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.bird-container,
+	.bird {
+		animation: none !important;
+	}
+}
+
+/* Button */
+.button {
+	@apply inline-flex items-center justify-center px-4 py-2 bg-green-800 text-green-50 font-semibold rounded shadow hover:bg-green-700 active:bg-green-900 transition-colors duration-200;
+}

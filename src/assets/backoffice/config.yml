@@ -1,0 +1,63 @@
+locale: 'nl'
+
+backend:
+  name: github
+  repo: 
+  branch: trunk
+
+media_folder: "src/assets/images/uploads"
+public_folder: "/images/uploads"
+
+# Please run "npx netlify-cms-proxy-server" for local backend
+local_backend: true
+
+logo_url: /favicon.svg
+
+collections:
+  - label: "Pagina's"
+    name: "pagina's"
+    folder: "src/pages"
+    create: true
+    editor:
+      preview: false
+    slug: "{{slug}}"
+    fields:
+      - label: "Titel"
+        name: "title"
+        widget: "string"
+        hint: "Titel van de pagina. Dit wordt ook gebruikt als de naam van de pagina in de URL."
+      - label: "Beschrijving"
+        name: "description"
+        widget: "text"
+        hint: "Korte beschrijving van de pagina."
+      - label: "Navigation"
+        name: "eleventyNavigation"
+        widget: "object"
+        fields:
+          - label: "Naam"
+            name: "key"
+            widget: "string"
+            required: false
+            hint: "De naam die in de navigatie wordt weergegeven. Laat leeg om de pagina niet in de navigatie weer te geven."
+          - label: "Order"
+            name: "order"
+            widget: "number"
+            default: 0
+            hint: "De volgorde van de pagina in de navigatie. Hoe lager het getal, hoe hoger de pagina in de navigatie staat."
+            required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        hint: "Inhoud van de pagina. Dit kan tekst, afbeeldingen, etc. zijn."
+  - label: "Contact"
+    name: "contact"
+    editor:
+      preview: false
+    files:
+    - label: "Contact"
+      name: "contact"
+      file: "src/pages/contact/index.md"
+      fields:
+        - {label: Titel, name: title, widget: string}
+        - {label: Beschrijving, name: description, widget: string}
+        - {label: Body, name: body, widget: markdown}

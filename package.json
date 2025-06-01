@@ -1,0 +1,33 @@
+{
+	"name": "svv-website",
+	"version": "1.0.0",
+	"description": "Website van de Soester Vogelvrienden",
+	"scripts": {
+		"start": "run-p start:*",
+		"start:eleventy": "eleventy --serve",
+		"start:postcss": "postcss src/styles/*.css --dir public --watch",
+		"build": "rimraf public && cross-env ELEVENTY_PRODUCTION=true eleventy && cross-env NODE_ENV=production postcss src/styles/*.css --dir public"
+	},
+	"keywords": [
+		"Website",
+		"SSG"
+	],
+	"author": "Maartn",
+	"license": "Apache-2.0",
+	"type": "module",
+	"dependencies": {
+		"@11ty/eleventy": "^3.0.0",
+		"@11ty/eleventy-navigation": "^1.0.4",
+		"@tailwindcss/oxide-win32-x64-msvc": "^4.1.5",
+		"@tailwindcss/postcss": "^4.1.5",
+		"@tailwindcss/typography": "^0.5.16",
+		"cross-env": "^7.0.3",
+		"cssnano": "^7.0.6",
+		"lightningcss-win32-x64-msvc": "^1.29.3",
+		"npm-run-all": "^4.1.5",
+		"postcss": "^8.5.3",
+		"postcss-cli": "^11.0.1",
+		"rimraf": "^6.0.1",
+		"tailwindcss": "^4.1.5"
+	}
+}

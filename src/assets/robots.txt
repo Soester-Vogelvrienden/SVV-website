@@ -1,0 +1,4 @@
+Sitemap: https://soestervogelvrienden.nl/sitemap.xml
+
+User-agent: *
+Disallow: 
