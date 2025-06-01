@@ -2,7 +2,8 @@
 @source "../../public/**/*.{html,js}";
 @plugin "@tailwindcss/typography";
 
-html, body {
+html,
+body {
 	@apply overflow-x-hidden;
 }
 
@@ -170,54 +171,57 @@ td {
 
 /* BIRD */
 
-.bird{
-    background-image: url('/bird.svg');
-    filter: brightness(0) saturate(100%) invert(27%) sepia(21%) saturate(2492%) hue-rotate(105deg) brightness(101%) contrast(99%);
-    background-size: auto 100%;
-    width: 88px;
-    height: 125px;
-    will-change: background-position;
+.bird {
+	background-image: url('/bird.svg');
+	filter: brightness(0) saturate(100%) invert(27%) sepia(21%) saturate(2492%) hue-rotate(105deg) brightness(101%) contrast(99%);
+	background-size: auto 100%;
+	width: 88px;
+	height: 125px;
+	will-change: background-position;
 
-    animation-name: fly-cycle;
-    animation-timing-function: steps(10);
-    animation-iteration-count: infinite;
-    animation-duration: 1s;
-    animation-delay: -0.5s;
+	animation-name: fly-cycle;
+	animation-timing-function: steps(10);
+	animation-iteration-count: infinite;
+	animation-duration: 1s;
+	animation-delay: -0.5s;
 }
 
 .bird-container {
-	position: absolute;
+	position: fixed;
 	top: 10%;
-	left: -3%;
-	transform: scale(0) translateX(-10vw);
+	left: -10vw;
+	transform: scale(0.4) translateX(-20vw);
 	will-change: transform;
-	
+	pointer-events: none;
+	z-index: 10;
+
 	animation-name: fly-right-one;
 	animation-timing-function: ease-in-out;
 	animation-iteration-count: infinite;
 	animation-duration: 15s;
-	animation-delay: 0;
 }
+
 @keyframes fly-cycle {
 	100% {
 		background-position: -900px 0;
 	}
-	
+
 }
 
 @keyframes fly-right-one {
-	
+
 	0% {
 		transform: scale(0.4) translateX(-20vw);
 	}
-	
+
 	100% {
 		transform: translateY(0vh) translateX(120vw) scale(0.9);
 	}
-	
+
 }
 
 @media (prefers-reduced-motion: reduce) {
+
 	.bird-container,
 	.bird {
 		animation: none !important;
