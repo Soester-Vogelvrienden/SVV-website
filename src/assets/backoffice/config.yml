@@ -2,7 +2,7 @@ locale: 'nl'
 
 backend:
   name: github
-  repo: 
+  repo: Soester-Vogelvrienden/SVV-website
   branch: trunk
 
 media_folder: "src/assets/images/uploads"
