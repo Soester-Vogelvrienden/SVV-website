@@ -10,8 +10,24 @@ eleventyNavigation:
 | **Datum** |                    |
 | --------- | ------------------ |
 | 6 januari | Nieuwjaarsreceptie |
+| 3 februari| Ledenvergadering - Kahoot! vogelquiz   |
 | 2 maart   | Vogelbeurs         |
+| 3 maart   | Jaarvergadering    |
+| 6 april   | Vroege vogelwandeling |
+| 7 april   | Ledenvergadering - presentatie Vroege vogelwandeling |
+| 6 januari | Nieuwjaarsreceptie |
+| 6 januari | Nieuwjaarsreceptie |
+| 6 januari | Nieuwjaarsreceptie |
+| 6 januari | Nieuwjaarsreceptie |
+| 6 januari | Nieuwjaarsreceptie |
+| 6 januari | Nieuwjaarsreceptie |
 | 5 oktober | Vogelbeurs         |
+| 6 januari | Nieuwjaarsreceptie |
+| 6 januari | Nieuwjaarsreceptie |
+| 6 januari | Nieuwjaarsreceptie |
+| 6 januari | Nieuwjaarsreceptie |
+| 6 januari | Nieuwjaarsreceptie |
+| 6 januari | Nieuwjaarsreceptie |
 
 ## AGENDA 2024
 
