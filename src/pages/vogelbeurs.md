@@ -1,16 +1,16 @@
 ---
 title: Vogelbeurs
-description: Op zondag 2 maart 2025 houden de Soester Vogelvrienden weer hun
+description: Op zondag 5 oktober 2025 houden de Soester Vogelvrienden weer hun
   half jaarlijkse vogelbeurs
 eleventyNavigation:
   order: 3
   key: Vogelbeurs
 ---
-Op zondag 2 maart 2025 houden de Soester Vogelvrienden weer hun half jaarlijkse vogelbeurs. Dit evenement zal plaatsvinden in het verenigingsgebouw aan de Molenstraat in het Desmond Tutu centrum. Iedereen is van harte welkom op:  
+Op zondag 5 oktober 2025 houden de Soester Vogelvrienden weer hun half jaarlijkse vogelbeurs. Dit evenement zal plaatsvinden in het verenigingsgebouw aan de Molenstraat in het Desmond Tutu centrum. Iedereen is van harte welkom op:  
 
 ![keurmerk nbvv](/images/uploads/keurmerk_nbvv.gif)
 
-Zondag 2 maart 2025\
+Zondag 5 oktober 2025\
 In gebouw "Vogelzang" Molenstraat 8d in Soest.\
 Zaal open 9.00 uur\
 Aanvang beurs 9.30 uur\
