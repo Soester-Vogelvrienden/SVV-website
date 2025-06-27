@@ -10,17 +10,17 @@ eleventyNavigation:
 | **Datum** |                    |
 | --------- | ------------------ |
 | 6 januari | Nieuwjaarsreceptie |
-| 3 februari| Ledenvergadering - Kahoot! vogelquiz   |
+| 3 februari| Ledenvergadering - Kahoot! vogelquiz door Ronald van der Putten |
 | 2 maart   | Vogelbeurs         |
 | 3 maart   | Jaarvergadering    |
 | 6 april   | Vroege vogelwandeling |
-| 7 april   | Ledenvergadering - presentatie Vroege vogelwandeling |
-| 6 januari | Nieuwjaarsreceptie |
-| 6 januari | Nieuwjaarsreceptie |
-| 6 januari | Nieuwjaarsreceptie |
-| 6 januari | Nieuwjaarsreceptie |
-| 6 januari | Nieuwjaarsreceptie |
-| 6 januari | Nieuwjaarsreceptie |
+| 7 april   | Ledenvergadering - Presentatie Vroege vogelwandeling door Harry van den Deijssel |
+| 12 april  | Paasbingo          |
+| 6 mei     | Ledenvergadering - Lezing over Lonchura´s door Jeroen Weber |
+| 7 mei     | Grote voorjaarsschoonmaak/-doedag |
+| 2 juni    | Informele ledenavond |
+| 1 september | Ledenvergadering - Lezing over parkieten door Piet Ooijen (keurmeester) |
+| 13 september | BBQ (gratis voor leden) |
 | 5 oktober | Vogelbeurs         |
 | 6 januari | Nieuwjaarsreceptie |
 | 6 januari | Nieuwjaarsreceptie |
