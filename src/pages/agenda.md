@@ -6,7 +6,7 @@ eleventyNavigation:
   key: Agenda
 ---
 ## AGENDA 2025
-
+*al onze bijeenkomsten vinden plaats in ons clubgebouw ¨Vogelzang¨ op de Molenstraat 8D te Soest
 | **Datum** |                    |
 | --------- | ------------------ |
 | 6 januari | Nieuwjaarsreceptie |
