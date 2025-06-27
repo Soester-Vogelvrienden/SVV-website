@@ -1,6 +1,7 @@
 ---
-title: Lokatie
-description: De Soestervogelvrienden hebben een eigen clubgebouw "Vogelzang" in het Desmond Tutu-centrum.
+title: Locatie
+description: De Soestervogelvrienden hebben een eigen clubgebouw "Vogelzang" in
+  het Desmond Tutu-centrum.
 eleventyNavigation:
   order: 5
   key: Lokatie
