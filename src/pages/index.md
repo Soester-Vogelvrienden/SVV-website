@@ -23,7 +23,7 @@ layout: page.njk
 			<p>Op zondag 5 oktober 2025 houden de Soester Vogelvrienden weer hun halfjaarlijkse vogelbeurs</p>
 		</div>
 		<a href="/vogelbeurs" class="inline-block text-green-900 font-medium hover:underline">
-			Klik hier voor meer informatie
+			Klik hier voor meer informatie over onze halfjaarlijkse vogelbeurs
 		</a>
 	</section>
 
