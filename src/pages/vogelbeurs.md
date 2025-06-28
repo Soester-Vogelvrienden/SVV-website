@@ -1,7 +1,7 @@
 ---
 title: Vogelbeurs
 description: Op zondag 5 oktober 2025 houden de Soester Vogelvrienden weer hun
-  half jaarlijkse vogelbeurs
+  half-jaarlijkse vogelbeurs
 eleventyNavigation:
   order: 3
   key: Vogelbeurs
