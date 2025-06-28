@@ -22,12 +22,12 @@ eleventyNavigation:
 | 1 september | Ledenvergadering - Lezing over parkieten door Piet Ooijen (keurmeester) |
 | 13 september | BBQ (gratis voor leden) |
 | 5 oktober | Vogelbeurs         |
-| 6 januari | Nieuwjaarsreceptie |
-| 6 januari | Nieuwjaarsreceptie |
-| 6 januari | Nieuwjaarsreceptie |
-| 6 januari | Nieuwjaarsreceptie |
-| 6 januari | Nieuwjaarsreceptie |
-| 6 januari | Nieuwjaarsreceptie |
+| 6 oktober | Ledenvergadering - Tafelkeuring (voor alle vogelsoorten) |
+| 3 november | Ledenvergadering - voorbereiding onderlinge TT |
+| 17-24 november | Onderlinge Tentoonstelling |
+| 1 december | Ledenvergadering |
+| 13 december | Kerstbingo |
+| 5 januari 2026 | Nieuwjaarsreceptie |
 
 ## AGENDA 2024
 
