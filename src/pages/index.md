@@ -29,9 +29,9 @@ layout: page.njk
 
 ```
 <section class="mt-8 grid grid-cols-1 md:grid-cols-3 gap-4">
-	<img src="images/uploads/edelzanger.jpg" alt="Edelzanger" class="w-full h-auto rounded shadow" />
-	<img src="https://soestervogelvrienden.nl/images/uploads/goudvink.jpg" alt="Goudvink" class="w-full h-auto rounded shadow" />
-	<img src="images/uploads/rheinlander.jpg" alt="Rheinlander" class="w-full h-auto rounded shadow" />
+	<img src="https://www.soestervogelvrienden.nl/images/uploads/edelzanger.jpg" alt="Edelzanger" class="w-full h-auto rounded shadow" />
+	<img src="https://www.soestervogelvrienden.nl/images/uploads/goudvink.jpg" alt="Goudvink" class="w-full h-auto rounded shadow" />
+	<img src="https://www.soestervogelvrienden.nl/images/uploads/rheinlander.jpg" alt="Rheinlander" class="w-full h-auto rounded shadow" />
 </section>
 ```
 
