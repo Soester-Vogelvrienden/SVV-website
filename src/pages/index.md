@@ -35,4 +35,12 @@ layout: page.njk
 </section>
 ```
 
+
+<section style="display:flex; gap:16px; margin-top:20px;">
+    <img src="/images/uploads/edelzanger.jpg" alt="Edelzanger" style="width:100%; max-width:300px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+    <img src="/images/uploads/goudvink.jpg" alt="Goudvink" style="width:100%; max-width:300px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+    <img src="/images/uploads/rheinlander.jpg" alt="Rheinlander" style="width:100%; max-width:300px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+</section>
+
+
 </main>
