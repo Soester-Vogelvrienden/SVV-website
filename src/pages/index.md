@@ -20,7 +20,7 @@ layout: page.njk
 			De vereniging is op 15 november 1952 opgericht en heeft enthousiaste leden die behalve van vogels ook van gezelligheid houden.
 		</p>
 		<div class="marquee">
-			<p>Op vrijdag 21 november van 19.30 tot 22.00 en op zaterdag 22 november van 10.00 tot 16.00 organiseren de Soester Vogelvrienden weer hun jaarlijkse tentoonstelling!</p>
+			<p>Op zondag 1 maart organiseren wij weer onze halfjaarlijkse vogelbeurs!</p>
 		</div>
 		<a href="/vogelbeurs" class="inline-block text-green-900 font-medium hover:underline">
 			Klik hier voor meer informatie over onze halfjaarlijkse vogelbeurs
