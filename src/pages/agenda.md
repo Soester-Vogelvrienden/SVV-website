@@ -5,6 +5,32 @@ eleventyNavigation:
   order: 2
   key: Agenda
 ---
+## AGENDA 2026
+
+
+\*al onze bijeenkomsten vinden plaats in ons clubgebouw [¨Vogelzang¨ op de Molenstraat 8D te Soest](https://g.co/kgs/kVxWBHS)
+| **Datum** |                    |
+| --------- | ------------------ |
+| 5 januari | Nieuwjaarsreceptie |
+| 2 februari| Ledenvergadering   |
+| 1 maart   | Vogelbeurs         |
+| 2 maart   | Jaarvergadering    |
+| 21 maart  | Paasbingo          |
+| 7 april   | Ledenvergadering   |
+| 12 april  | Vroege vogelwandeling          |
+| 11 mei    | Ledenvergadering   |
+| 1 juni    | Informele ledenavond |
+| 3 juni    | Grote voorjaarsschoonmaak |
+| 7 september | Ledenvergadering |
+| 12 september | BBQ  |
+| 4 oktober | Vogelbeurs         |
+| 5 oktober | Ledenvergadering - Tafelkeuring (voor alle vogelsoorten) |
+| 2 november | Ledenvergadering - voorbereiding onderlinge TT |
+| 16-23 november | Onderlinge Tentoonstelling |
+| 7 december | Ledenvergadering |
+| 19 december | Kerstbingo |
+| 4 januari 2026 | Nieuwjaarsreceptie |
+
 ## AGENDA 2025
 
 \*al onze bijeenkomsten vinden plaats in ons clubgebouw [¨Vogelzang¨ op de Molenstraat 8D te Soest](https://g.co/kgs/kVxWBHS)
