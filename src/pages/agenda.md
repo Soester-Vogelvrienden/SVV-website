@@ -29,7 +29,7 @@ eleventyNavigation:
 | 16-23 november | Onderlinge Tentoonstelling |
 | 7 december | Ledenvergadering |
 | 19 december | Kerstbingo |
-| 4 januari 2026 | Nieuwjaarsreceptie |
+| 4 januari 2027 | Nieuwjaarsreceptie |
 
 ## AGENDA 2025
 
