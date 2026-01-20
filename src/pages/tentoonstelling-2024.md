@@ -3,7 +3,7 @@ title: Tentoonstelling 2024
 description: Op 22 en 23 november organiseren de Soester Vogelvrienden weer hun
   onderlinge tentoonstelling.
 eleventyNavigation:
-  order: 4
+  order: 5
   key: TT 2024
 ---
 Op 22 en 23 november organiseren de Soester Vogelvrienden weer hun onderlinge tentoonstelling.  
