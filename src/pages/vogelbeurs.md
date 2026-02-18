@@ -8,8 +8,6 @@ eleventyNavigation:
 ---
 **Op dit moment geldt er nog steeds een verzamelverbod voor vogels. Dat betekent dat de vogelbeurs niet kan doorgaan zolang dit verbod van kracht is.**
 
-**Houd deze website in de gaten voor eventuele updates. Het is op dit moment nog niet duidelijk of het verzamelverbod vóór deze datum wordt opgeheven, de beurs naar een andere datum wordt verzet of helemaal wordt afgelast.**
-
 Op zondag 1 maart 2026 houden de Soester Vogelvrienden weer hun half jaarlijkse vogelbeurs. Dit evenement zal plaatsvinden in het verenigingsgebouw aan de Molenstraat in het Desmond Tutu centrum. Iedereen is van harte welkom op:  
 
 ![keurmerk nbvv](/images/uploads/keurmerk_nbvv.gif)
