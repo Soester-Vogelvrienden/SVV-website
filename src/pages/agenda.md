@@ -7,7 +7,6 @@ eleventyNavigation:
 ---
 ## AGENDA 2026
 
-
 \*al onze bijeenkomsten vinden plaats in ons clubgebouw [¨Vogelzang¨ op de Molenstraat 8D te Soest](https://g.co/kgs/kVxWBHS)
 | **Datum** |                    |
 | --------- | ------------------ |
@@ -15,7 +14,7 @@ eleventyNavigation:
 | 2 februari| Ledenvergadering   |
 | 1 maart   | Vogelbeurs         |
 | 2 maart   | Jaarvergadering    |
-| 21 maart  | Paasbingo          |
+| 28 maart  | Paasbingo          |
 | 7 april   | Ledenvergadering   |
 | 12 april  | Vroege vogelwandeling          |
 | 11 mei    | Ledenvergadering   |
