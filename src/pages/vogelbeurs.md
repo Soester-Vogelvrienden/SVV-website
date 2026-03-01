@@ -12,7 +12,7 @@ eleventyNavigation:
 
 ![keurmerk nbvv](/images/uploads/keurmerk_nbvv.gif)
 
-Zondag 1 maart 2026\
+**\[AFGELAST!]**Zondag 1 maart 2026\
 In gebouw "Vogelzang" Molenstraat 8d in Soest.\
 Zaal open 9.00 uur\
 Aanvang beurs 9.30 uur\
