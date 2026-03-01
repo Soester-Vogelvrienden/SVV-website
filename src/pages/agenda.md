@@ -12,7 +12,7 @@ eleventyNavigation:
 | --------- | ------------------ |
 | 5 januari | Nieuwjaarsreceptie |
 | 2 februari| Ledenvergadering   |
-| 1 maart   | Vogelbeurs         |
+| 1 maart   | <AFGELAST> Vogelbeurs         |
 | 2 maart   | Jaarvergadering    |
 | 28 maart  | Paasbingo          |
 | 7 april   | Ledenvergadering   |
