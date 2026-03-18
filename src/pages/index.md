@@ -20,7 +20,7 @@ layout: page.njk
 			De vereniging is op 15 november 1952 opgericht en heeft enthousiaste leden die behalve van vogels ook van gezelligheid houden.
 		</p>
 		<div class="marquee">
-			<p>De vogelbeurs op 1 maart gaat niet door! </p>
+			<p>12 april houden wij weer onze "vroege vogel" wandeling! Houd kweeklust in de gaten!</p>
 		</div>
 		<a href="/vogelbeurs" class="inline-block text-green-900 font-medium hover:underline">
 			Klik hier voor meer informatie over onze halfjaarlijkse vogelbeurs
