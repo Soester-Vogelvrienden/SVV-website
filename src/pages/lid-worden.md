@@ -6,7 +6,7 @@ eleventyNavigation:
   key: Lid worden
 ---
 Aanmelding is schriftelijk, via de ledenadministratie. De betaling dient te geschieden via een machtiging voor automatische incasso. Leden betalen per jaar en kunnen hun jaarlidmaatschap per 15 december schriftelijk opzeggen via het bestuur.\
-Aanmelden als lid of donateur kan gebeuren met behulp van het [aanmeldingsformulier](/images/uploads/aanmelden.pdf). Dit formulier volledig invullen en samen met het [machtigingsformulier](/images/uploads/machtiging.pdf) voor automatische incasso van de contributie inzenden naar [onze secretaris,](mailto:secretaris@soestervogelvrienden.nl) secretaris@soestervogelvrienden.nl, of afgeven bij één van de andere bestuursleden.  
+Aanmelden als lid of donateur kan gebeuren met behulp van het [aanmeldingsformulier](/images/uploads/aanmeldformulier.pdf). Dit formulier volledig invullen en samen met het [machtigingsformulier](/images/uploads/machtiging.pdf) voor automatische incasso van de contributie inzenden naar [onze secretaris,](mailto:secretaris@soestervogelvrienden.nl) secretaris@soestervogelvrienden.nl, of afgeven bij één van de andere bestuursleden.  
 
 Het [huishoudelijk reglement](</images/uploads/huishoudelijk reglement2.pdf>) met besluiten kunt u hier vinden.  
 
