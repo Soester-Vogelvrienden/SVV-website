@@ -23,7 +23,7 @@ eleventyNavigation:
 | 7 september | Ledenvergadering |
 | 12 september | BBQ  |
 | 4 oktober | Vogelbeurs         |
-| 5 oktober | Ledenvergadering - Tafelkeuring (voor alle vogelsoorten) |
+| **12 oktober | Ledenvergadering - Tafelkeuring (voor alle vogelsoorten), Let op gewijzigde datum!** |
 | 2 november | Ledenvergadering - voorbereiding onderlinge TT |
 | 16-23 november | Onderlinge Tentoonstelling |
 | 7 december | Ledenvergadering |
