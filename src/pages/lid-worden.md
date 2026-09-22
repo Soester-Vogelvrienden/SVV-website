@@ -13,7 +13,7 @@ Het [huishoudelijk reglement](/images/uploads/huishoudelijk-reglement2.pdf) met 
 ## WAT HEEFT DE VERENIGING U TE BIEDEN
 
 1. Een schitterend Bondsblad "ONZE VOGELS". Dit Bondsblad verschijnt 12 maal per jaar
-2. Ons eigen clubblad "KWEEKLUST", dat wij 10 keer per jaar uitgeven
+2. Ons eigen clubblad "KWEEKLUST", dat wij 10 keer per jaar uitgeven en per e-mail versturen naar onze leden.
 3. De mogelijkheid om u vogels te laten keuren en showen op de jaarlijkse onderlinge tentoonstelling
 4. Gezellige bingo-avonden met pasen en kerst
 5. Een barbeque na de zomervakantie
