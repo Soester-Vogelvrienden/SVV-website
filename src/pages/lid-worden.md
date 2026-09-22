@@ -8,7 +8,7 @@ eleventyNavigation:
 Aanmelding is schriftelijk, via de ledenadministratie. De betaling dient te geschieden via een machtiging voor automatische incasso. Leden betalen per jaar en kunnen hun jaarlidmaatschap per 15 december schriftelijk opzeggen via het bestuur.\
 Aanmelden als lid of donateur kan gebeuren met behulp van het [aanmeldingsformulier](/images/uploads/aanmeldformulier.pdf). Dit formulier volledig invullen en samen met het machtigingsformulier voor automatische incasso van de contributie inzenden naar [onze secretaris,](mailto:secretaris@soestervogelvrienden.nl) secretaris@soestervogelvrienden.nl, of afgeven bij één van de andere bestuursleden.  
 
-Het [huishoudelijk reglement](</images/uploads/huishoudelijk-reglement2.pdf>) met besluiten kunt u hier vinden.  
+Het [huishoudelijk reglement](/images/uploads/huishoudelijk-reglement2.pdf) met besluiten kunt u hier vinden.  
 
 ## WAT HEEFT DE VERENIGING U TE BIEDEN
 
@@ -25,6 +25,4 @@ Het [huishoudelijk reglement](</images/uploads/huishoudelijk-reglement2.pdf>) me
 1. Een seniorlidmaatschap voor € 37,00 per jaar.
 2. Een jeugdlidmaatschap voor € 12,00 per jaar.
 3. Een sublidmaatschap voor € 23,20 per jaar.
-4. Een donateurschap voor minimaal € 15,00 per jaar.  
-
-   Het inschrijfgeld bedraagt éénmalig € 2,50
+4. Een donateurschap voor minimaal € 15,00 per jaar.
