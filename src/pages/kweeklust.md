@@ -2,7 +2,7 @@
 title: Kweeklust
 description: Kweeklust is het verenigingsblad van de Soester Vogelvrienden
 eleventyNavigation:
-  order: 8
+  order: 60
   key: Kweeklust
 ---
 
