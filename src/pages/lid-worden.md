@@ -2,7 +2,7 @@
 title: Lid worden
 description: Lid worden
 eleventyNavigation:
-  order: 1
+  order: 10
   key: Lid worden
 ---
 Aanmelding is schriftelijk, via de ledenadministratie. De betaling dient te geschieden via een machtiging voor automatische incasso. Leden betalen per jaar en kunnen hun jaarlidmaatschap per 15 december schriftelijk opzeggen via het bestuur.\
