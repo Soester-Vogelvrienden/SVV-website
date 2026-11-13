@@ -2,7 +2,7 @@
 title: Links
 description: links
 eleventyNavigation:
-  order: 12
+  order: 100
   key: Links
 ---
 
