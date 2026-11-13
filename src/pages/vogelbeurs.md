@@ -3,7 +3,7 @@ title: Vogelbeurs
 description: Op zondag 1 maart 2026 houden de Soester Vogelvrienden weer hun
   half-jaarlijkse vogelbeurs
 eleventyNavigation:
-  order: 6
+  order: 40
   key: Vogelbeurs
 ---
 Op zondag 4 oktober 2026 houden de Soester Vogelvrienden weer hun half jaarlijkse vogelbeurs. Dit evenement zal plaatsvinden in het verenigingsgebouw aan de Molenstraat in het Desmond Tutu centrum. Iedereen is van harte welkom op:  
