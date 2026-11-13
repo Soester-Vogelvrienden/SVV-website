@@ -2,7 +2,7 @@
 title: Agenda
 description: Dit is de agenda
 eleventyNavigation:
-  order: 2
+  order: 20
   key: Agenda
 ---
 ## AGENDA 2026
