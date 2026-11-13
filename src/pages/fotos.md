@@ -2,7 +2,7 @@
 title: Foto's
 description: Foto's
 eleventyNavigation:
-  order: 11
+  order: 90
   key: Foto's
 ---
 
