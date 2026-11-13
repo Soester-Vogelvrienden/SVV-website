@@ -1,0 +1,77 @@
+---
+title: Tentoonstelling 2026
+description: Op 20 en 21 november organiseren de Soester Vogelvrienden weer hun
+  onderlinge tentoonstelling.
+eleventyNavigation:
+  order: 4
+  key: TT 2026
+---
+Op 21 en 22 november organiseerden de Soester Vogelvrienden weer hun onderlinge tentoonstelling.  
+
+![foto](/images/uploads/260120_svv-kampioen-2025.jpg)
+
+\
+**Clubkampioen** dit jaar is H. Termaat met 467 punten (5 beste vogels).  
+
+De **hoofdgroepkampioenen** zijn:  
+
+|                     |                                                |             |
+| ------------------- | ---------------------------------------------- | ----------- |
+| **Enkelingen**      |                                                |             |
+| R. Stijlaart        | Kleurkanaries, Lipochroom                      | 95 punten   |
+| R.H. van Maanen     | Kleurkanaries, Melanine                        | 94 punten   |
+| R. Stijlaart        | Kleurkanaries, mozaiëken                       | 93 punten   |
+| J.M.K. van Rijn     | Postuurkanaries, vorm rassen                   | 93 punten   |
+| H. v/d Kuil         | Postuurkanaries, gekuifde rassen               | 91 punten   |
+| S.H. Scheffer       | Tropische vogels, Zebravinken en zilverbekjes  | 94 punten   |
+| S.H. Scheffer       | Tropische vogels, Gouldamadines                | 93 punten   |
+| B.C. Scheffer       | Tropische vogels, Afrikaanse prachtvinken      | 93 punten   |
+| J.T. van Slooten    | Tropische vogels, overige tropen               | 94 punten   |
+| J.G.M. Taling       | Tropische duifjes                              | 92 punten   |
+| H. Termaat          | Europese Cultuurvogels, Sijzen                 | 93 punten   |
+| H. Termaat          | Europese Cultuurvogels, Overige                | 95 punten   |
+| J.H.F. v/d Bremer   | Grasparkieten                                  | 94 punten   |
+| J. Nauta            | Grote overige parkieten                        | 93 punten   |
+|                     |                                                |             |
+| **Stellen**         |                                                |             |
+| W.P. van Middelaar  | Kleurkanaries                                  | 185 punten  |
+| J.M.K. van Rijn     | Postuurkanaries                                | 182 punten  |
+| R.J. v/d Putten     | Tropische vogels en Europese Cultuurvogels     | 182 punten  |
+| J.H.F. v/d Bremer   | Kromsnavels                                    | 183 punten  |
+|                     |                                                |             |
+| **Stammen**         |                                                |             |
+| W.P. van Middelaar  | Kleurkanaries                                  | 372 punten  |
+| R.J. v/d Putten     | Tropische vogels en Europese Cultuurvogels     | 372 punten  |
+|                     |                                                |             |
+| **Overige Prijzen** |                                                |             |
+| J.H.F. v/d Bremer   | Bondskruis voor de mooiste Kromsnavel          | 94 punten   |
+| R. Stijlaart        | de Eemlandbokaal voor de mooiste Kanarie       | 95 punten   |
+| H. Termaat          | de Eemlandbokaal voor de mooiste Tropen/ ECV   | 95 punten   |
+|                     |                                                |             |
+| D.H.J. Schamhart    | Mooiste open klasse vogel                      | 93 punten   |
+|                     |                                                |             |
+| M.A. Paschedag      | Derbywinnaar Kanaries                          | 94 punten   |
+| H. Termaat          | Derbywinnaar Tropen/ECV                        | 95 punten   |
+| R.P. Vonk           | Derbywinnaar Kromsnavels                       | 92 punten   |
+
+**Belangrijke data:***   Opening tentoonstelling\
+    vrijdag 21 november van 20.00 tot 22.00 uur\
+    zaterdag 22 november van 10.00 tot 15.30 uur  
+
+* Afhalen vogels zaterdag 22 november van 15.30 tot 16.00 uur  
+
+    We bedanken onze **adverteerders** voor hun steun:  
+* [Eemland Diervoeders](http://www.eemlanddiervoeders.nl) Birkstraat 125a, Soest. tel. 033 - 461 8714  
+* [Dijsssel Installatie & Techniek](mailto:info@dijssel-installatie.nl)  
+* [B. Strumpel B.V.](http://www.strumpelsoest.nl) Dorresteinweg 72a, Soest. tel. 035 - 602 7130  
+* [Loodgietersbedrijf Soest b.v.](http://www.loodgietersbedrijfsoest.nl) Weteringenpad 88, Soest. tel. 035 - 601 7332
+* [Banking Support Soest](mailto:info@bankingsupportsoest.nl)
+* [MUGRO](http://www.mugro-soest.nl) Industrieweg 16a, Soest. tel. 035 - 601 1276  
+* R. Westra, Lompen ijzer papier. Dorresteinweg 60, Soest  
+* [Cleaning Service Leusden](http://www.cleaningserviceleusden.nl) Apollolaan 80, Leusdenn. tel. 06 - 188 484 58, [mail ons](mailto:info@cleaningserviceleusden.nl)
+* Vogelhandel Zuid, Panhuis 28 Veenendaal. tel. 06 26908207 [, mail ons](mailto:Vogelhandelzuid10@gmail.com)  
+* [Bowling Overhees](http://www.bowlingoverhees.nl) Willaertstraat 49c, Soest. tel. 035 - 609 5841
+
+![foto](/images/uploads/dtt111.jpg)
+
+![foto](/images/uploads/dtt112.jpg)
