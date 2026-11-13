@@ -3,7 +3,7 @@ title: Volières van de maand
 description: In ons verenigingsblad Kweeklust staat soms één van de volières van
   onze leden centraal
 eleventyNavigation:
-  order: 10
+  order: 80
   key: Volières
 ---
 
