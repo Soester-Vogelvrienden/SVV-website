@@ -22,7 +22,7 @@ layout: page.njk
 		<div class="marquee">
 			<p>Vrijdag 20 en zaterdag 21 november houden wij onze jaarlijkse tentoonstelling! De zaal is op vrijdag geopend van 19:30 tot 22:00 en op zaterdag van 10:00 tot 16:00.</p>
 		</div>
-		<a href="/tt2026" class="inline-block text-green-900 font-medium hover:underline">
+		<a href="/tentoonstelling-2026/" class="inline-block text-green-900 font-medium hover:underline">
 			Voor meer informatie over de tentoonstelling kunt u hier klikken.
 		</a>
 	</section>
